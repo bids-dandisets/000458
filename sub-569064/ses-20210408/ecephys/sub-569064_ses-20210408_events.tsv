@@ -1,0 +1,1923 @@
+onset	duration	nwb_table	stimulus_type	stimulus_description	estim_current	estim_target_region	estim_target_depth	behavioral_epoch	is_running	is_valid
+375.08634	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+378.61936	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+382.68098	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+387.06326	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+391.23287	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+394.92373	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+398.79307	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+402.75421	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+407.23628	0.0003999999999564352	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+410.8931	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+415.24904	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+419.39422	0.0003999999999564352	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+423.2709200000001	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+426.96226	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+430.89094000000006	0.0003999999999564352	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+434.87339	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+438.49443	0.0003999999999564352	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+442.58435	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+446.31095	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+450.19599000000005	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+454.27939	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+458.03161	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	True	True
+461.82247	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	True	True
+465.93999	0.0003999999999564352	trials	electrical	biphasic	15	MOs	deep	awake	True	True
+469.70569000000006	0.0003999999999564352	trials	electrical	biphasic	40	MOs	deep	awake	True	True
+474.03049	0.00040000000007012204	trials	electrical	biphasic	60	MOs	deep	awake	True	True
+478.51358	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	True	True
+482.7442400000001	0.0003999999999564352	trials	electrical	biphasic	40	MOs	deep	awake	True	True
+486.58854	0.0003999999999564352	trials	electrical	biphasic	60	MOs	deep	awake	True	True
+490.67302	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+494.2812	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+498.68792	0.0003999999999564352	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+503.06801	0.0003999999999564352	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+507.38619000000006	0.0003999999999564352	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+511.14733	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+515.2421099999998	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+518.76505	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+522.69073	0.00039999999978590495	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+526.50387	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+530.1657700000002	0.00039999999978590495	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+533.84495	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+537.76825	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+541.36288	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+545.46183	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+549.43317	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+553.6295299999998	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+557.82983	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+561.96879	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+565.50281	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+569.0720299999998	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+572.89205	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+576.92333	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+581.0781900000002	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+584.98623	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+589.3066299999998	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+593.52541	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+597.99447	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+602.0262299999998	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+605.85179	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+609.45783	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+613.56921	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+617.84843	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+621.77231	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+625.36355	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+629.13045	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+632.78453	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+636.5659400000002	0.0004099999998743442	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+640.50644	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+644.534	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+648.49184	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+652.86765	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+656.88613	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+661.3301700000002	0.00039999999978590495	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+665.46829	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+669.9264099999998	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+673.6675299999998	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+677.84407	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+681.63355	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+685.80577	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+690.0013299999998	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+693.56975	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+697.3249599999998	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+701.04942	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+705.21768	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+709.5625	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+713.40738	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+717.68832	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+721.86408	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+725.37122	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+729.47382	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	True	True
+733.36102	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+737.7774400000002	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+741.2790200000002	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+745.24188	0.00039999999978590495	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+749.16664	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+753.12797	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+757.39856	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+761.22145	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+765.5066099999998	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+769.47839	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+773.01457	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+776.69087	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+780.91305	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+784.88695	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+788.54008	0.0004100000002154047	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+792.38162	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+796.48942	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+800.1815799999998	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+804.42042	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+808.1637	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+812.58154	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+816.3510200000002	0.00039999999978590495	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+820.61694	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+824.30602	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+828.09393	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+831.68547	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+835.7620900000002	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+839.9458699999999	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+843.99289	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+847.91903	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+852.06389	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+856.21193	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+860.3913699999998	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+864.52757	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+868.97317	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+872.68252	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+876.89222	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+880.6288800000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+884.2487	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+888.35642	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+892.3069800000002	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+896.2661199999999	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+900.42848	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+904.69918	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+908.54981	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+912.71225	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+916.62883	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+920.97117	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+925.30451	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+929.06137	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+933.17525	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+937.25791	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+941.29907	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+945.66943	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+949.43463	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+953.25312	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+956.87276	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+961.313	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+965.45898	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+969.43886	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+973.5786	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+977.62374	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+981.77148	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+985.81578	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+990.03724	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+994.06015	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+998.55428	0.0004000000000132786	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1002.27337	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1005.87959	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1009.48971	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1013.05372	0.0004000000000132786	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1016.95872	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1020.90752	0.0004000000000132786	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1024.77376	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1029.03768	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1033.1660000000004	0.0003999999996722181	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1037.4384	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1041.87168	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1046.34484	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1050.03728	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1053.67657	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1057.87325	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1061.46749	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1065.49331	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1069.52407	0.0003999999996722181	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1073.88563	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1077.8709	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1081.76478	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1085.93664	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1090.17832	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1094.1988	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1098.04694	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1101.69736	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1105.78387	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1109.54643	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1113.09131	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1117.34667	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1121.08987	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1125.03268	0.00040000000035433914	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1129.2209	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1133.08054	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1137.3173	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1141.2124199999996	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1145.39626	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1149.60072	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1153.54344	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1157.0634300000004	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1160.89471	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1164.81943	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1168.59013	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1172.2876	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1176.60974	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1180.54008	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1184.92828	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1188.81988	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1193.08942	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1196.98664	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1201.29558	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1205.5510800000004	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1209.4289	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1213.14533	0.00040000000035433914	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1217.43615	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1221.8858699999996	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1225.71385	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1229.88553	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1233.82459	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1238.15851	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1242.42779	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1246.09547	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1250.45787	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1254.94817	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1258.96301	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1263.34771	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1267.43615	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1271.09132	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1274.7916	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1278.69898	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1282.9481	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1287.2741	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1291.56448	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1295.38342	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1299.41789	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1303.00827	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1306.62039	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1310.2571	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1314.43618	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1318.43178	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1322.1219199999996	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1326.11734	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1329.76535	0.0004100000001017179	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1333.32075	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1337.67189	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1341.7328699999996	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1346.16289	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1350.35997	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1354.44319	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1358.75901	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1363.13845	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1367.62779	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1371.12873	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1375.49459	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1379.60757	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1384.09795	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	True	True
+1388.12605	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1392.10598	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1396.40774	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1400.136	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1404.1345199999996	0.00040000000035433914	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1408.5358	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1412.6108800000004	0.0003999999996722181	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1416.95648	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1421.19554	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1425.28194	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1429.0291	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1433.19594	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1436.7798300000004	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1440.90621	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1445.06757	0.0003999999996722181	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1449.29775	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1453.68893	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1458.17165	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1462.44109	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1466.52295	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1470.95169	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1475.0322099999996	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1478.54961	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1482.17088	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1486.5340199999996	0.0004100000007838389	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1490.51874	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1494.86402	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1498.57384	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1502.62656	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1506.75686	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1510.28928	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1514.40441	0.0004099999998743442	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1518.26725	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1521.81721	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1525.80721	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1529.50015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1533.12364	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1536.82956	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1540.4765	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1544.16599	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1547.70907	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1551.84469	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1555.62697	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1559.66599	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1563.86157	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1567.8611	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1571.89732	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1575.8429199999996	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1579.46728	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1583.45806	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1587.81148	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1592.18582	0.0003999999996722181	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1595.95654	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1599.66541	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1603.73081	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1607.87155	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1611.78899	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1615.49539	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1619.94375	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1623.52624	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1627.13236	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1630.77482	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1634.4417	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1638.56307	0.0003999999996722181	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1642.63721	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1646.18971	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1650.6213300000004	0.0003999999996722181	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1654.85041	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1659.08867	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1662.65249	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1667.01335	0.00040000000012696546	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1671.44817	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1675.93299	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1680.29235	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1684.57833	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1688.59213	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1692.27015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1696.1691399999993	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1699.8035	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1703.33482	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1707.77438	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1711.5761	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1715.37205	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1719.2054100000007	0.0003999999996722181	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1723.1728899999996	0.00040000000035433914	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1727.3215100000002	0.0003999999996722181	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1730.84715	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1735.18977	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1739.24923	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1743.60375	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1747.45205	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1751.39848	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1754.9531399999996	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1758.6306600000007	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1762.7938800000004	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1766.62512	0.0003999999996722181	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1771.0240199999996	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1774.64259	0.0003999999996722181	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1779.13143	0.00040000000012696546	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1783.17183	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1787.37917	0.0003999999996722181	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1791.87909	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	awake	False	True
+1795.66735	0.00040000000012696546	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1799.5822899999996	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1803.54755	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1807.81193	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	awake	False	True
+1812.13055	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	awake	False	True
+1875.46133	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1879.76491	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1884.0852	0.24953000000004977	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+1888.12188	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+1892.04183	0.24957000000017615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1896.24536	0.24954000000002452	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1900.29872	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1904.61899	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1908.3888	0.24959000000012566	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1912.19196	0.24957999999992353	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1916.46224	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1921.09943	0.24957999999992353	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1925.13612	0.24957000000017615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1929.62321	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1934.32713	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1938.98104	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1942.73418	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1947.1712	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1951.14122	0.24954000000002452	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1955.71168	0.24957000000017615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1959.68167	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1963.65165	0.24954000000002452	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1967.43816	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1971.47485	0.24956000000065615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1975.26135	0.24957999999992353	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1979.49826	0.24954000000002452	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1984.23553	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1988.10545	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1992.40904	0.24955999999997402	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1997.02957	0.24954000000002452	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2001.71681	0.24957000000017615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2005.46994	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2009.60675	0.24957000000017615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2014.14389	0.24955999999997402	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2018.46415	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2022.33404	0.24959000000012566	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2026.65433	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2030.85785	0.24955999999997402	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2034.64436	0.24957999999992353	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2038.96464	0.24957000000017615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2043.36832	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2048.00553	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2051.97552	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2055.9622	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2060.11567	0.24955999999974665	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2064.71952	0.24955999999974665	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2068.63947	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2072.65949	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2077.1132	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2081.70039	0.24957000000085827	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2086.00399	0.24955999999974665	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2090.14078	0.2662699999996221	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2093.94396	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2098.46443	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2102.31764	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2106.73802	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2110.77472	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2114.96158	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2118.74803	0.24961999999959517	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2123.15175	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2127.77228	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2132.29273	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2136.7965	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2140.83321	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2145.30361	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2149.32365	0.24957000000040352	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2153.56053	0.24960000000055516	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2158.21442	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2162.56807	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2166.77158	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2170.79164	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2175.26203	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2179.71576	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2183.70242	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2187.58901	0.24959999999964566	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2191.50895	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2195.69582	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2199.69916	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2203.469	0.24956000000065615	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2207.2555	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2211.0753600000007	0.2495399999993424	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2215.64584	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2219.44905	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2224.06957	0.24955999999974665	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2228.1563300000007	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2232.12631	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2235.99622	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2239.89948	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2244.41994	0.2662399999999252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2248.45665	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2252.44332	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2256.99713	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2261.1506	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2265.80451	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2269.75782	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2273.978	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2278.54851	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2282.63526	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2286.57188	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2290.8755	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2295.49603	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2299.48273	0.24954999999999927	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2303.85303	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2308.54029	0.2495800000001509	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2312.54361	0.2496200000000499	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2317.13081	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2321.3676800000007	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2325.738	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2329.92485	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2333.71138	0.24955999999974665	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2337.96494	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2342.51873	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2346.77229	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2350.79234	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2354.62888	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2359.26607	0.2496200000000499	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2363.71981	0.2496099999998478	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2367.88997	0.24958999999989828	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2372.3437	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2377.06432	0.24959000000080778	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2476.529894549823	199.57000000000016	epochs								
+2676.1098945498234	3313.24	epochs								
+3964.63418	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+3968.1672	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+3972.22883	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+3976.6111200000014	0.00039999999853534973	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+3980.78073	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+3984.47159	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+3988.34094	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+3992.30209	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+3996.78416	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4000.44098	0.00040000000035433914	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4004.79693	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4008.94212	0.00040000000126383384	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4012.81883	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4016.5101700000014	0.00039999999853534973	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4020.43886	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4024.42131	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4028.04235	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4032.13228	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4035.85888	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4039.74393	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4043.82734	0.00040000000035433914	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4047.57956	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4051.37043	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4055.48796	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4059.25366	0.00040000000035433914	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4063.57847	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4068.06156	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4072.29223	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4076.13654	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4080.22103	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4083.82921	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4088.23594	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4092.61603	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4096.93422	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4100.69537	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4104.79015	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4108.3131	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4112.23878	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4116.05193	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4119.713839999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4123.39302	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4127.31633	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4130.91097	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4135.00992	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4138.98127	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4143.17763	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4147.377939999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4151.51691	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4155.05094	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4158.62016	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4162.44019	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4166.47147	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4170.62634	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4174.53439	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4178.8548	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4183.07359	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4187.54266	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4191.57442	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4195.39999	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4199.00603	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4203.117420000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4207.39665	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4211.32054	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4214.911779999999	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4218.67869	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4222.33277	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4226.1142	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4230.0547	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4234.08227	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4238.0401200000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4242.41593	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4246.434420000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4250.8784700000015	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4255.01659	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4259.47472	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4263.21585	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4267.3924	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4271.18188	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4275.35411	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4279.54968	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4283.1181	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4286.873329999999	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4290.59779	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4294.76606	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4299.11089	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4302.955779999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4307.23673	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4311.4125	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4314.91964	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4319.02225	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4322.90945	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4327.325879999999	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4330.82747	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4334.79033	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4338.7151	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4342.67645	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4346.94704	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4350.76994	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4355.05511	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4359.0269	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4362.56308	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4366.23939	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4370.46157	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4374.43548	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4378.088629999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	False
+4381.930170000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	False
+4386.03798	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4389.73014	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4393.96899	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4397.71228	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4402.13013	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4405.89961	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4410.16554	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4413.85463	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4417.64255	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4421.2341	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4425.31072	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4429.49451	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4433.54154	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4437.46769	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4441.61255	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4445.7606	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4449.94005	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4454.07626	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4458.521870000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4462.231229999999	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4466.44094	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4470.17761	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4473.79743	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4477.90516	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4481.855720000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4485.81487	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4489.97724	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4494.24795	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4498.09859	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4502.261039999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4506.17763	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4510.51998	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4514.85333	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4518.610189999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4522.72408	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4526.80675	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4530.84791	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4535.21828	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4538.98349	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4542.80199	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4546.42164	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4550.86189	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4555.00788	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4558.98776	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4563.12751	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4567.17266	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4571.32041	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4575.36471	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4579.586179999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4583.60911	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4588.10324	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4591.82234	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4595.42857	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4599.038689999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4602.60272	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4606.507720000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4610.45653	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4614.322770000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4618.5867	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4622.715029999999	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4626.98744	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4631.42073	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4635.8939	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4639.58634	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4643.22565	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4647.42234	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4651.01658	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4655.04241	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4659.0731700000015	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4663.43474	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4667.420029999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4671.313920000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4675.48578	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4679.727470000002	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4683.7479600000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4687.5961	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4691.246529999999	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4695.33306	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4699.09562	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4702.64051	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4706.89587	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4710.63908	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4714.58191	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4718.77013	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4722.629779999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4726.86655	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4730.76167	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4734.94552	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4739.14999	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4743.0927200000015	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4746.61272	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4750.44401	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4754.36873	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4758.13944	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4761.836920000002	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4766.1590700000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4770.08942	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4774.477629999999	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4778.369229999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4782.638779999998	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4786.53601	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	False
+4790.84496	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4795.1004600000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4798.97829	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4802.694729999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4806.98556	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4811.435289999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4815.26328	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4819.43497	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4823.37403	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4827.70796	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4831.97725	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4835.64493	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4840.00734	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4844.49765	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4848.5125	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4852.89721	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4856.98566	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4860.64084	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4864.34113	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4868.24851	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4872.49764	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4876.82365	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4881.11404	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4884.93298	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4888.967470000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4892.55785	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4896.16998	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4899.8067	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4903.98579	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4907.9814	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4911.67154	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4915.66697	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4919.31499	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4922.8704	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4927.22154	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4931.28253	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4935.71256	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4939.90965	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4943.99288	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4948.3087	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4952.68815	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4957.1775	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4960.67845	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4965.04432	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4969.1573	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4973.64769	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4977.6758	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4981.65575	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+4985.95751	0.00041000000146595994	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4989.68578	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+4993.6843100000015	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+4998.0856	0.0003999999980806024	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5002.16068	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5006.50629	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5010.74536	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5014.831770000002	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5018.57893	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5022.745779999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5026.32968	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5030.45607	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5034.61744	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5038.847620000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5043.23881	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5047.72154	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5051.99099	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5056.07286	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5060.5016	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5064.58213	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5068.09953	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5071.720820000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5076.08396	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5080.06869	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5084.413979999998	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5088.1238	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5092.17653	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5096.30683	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5099.83925	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5103.9544	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5107.817239999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5111.36721	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5115.35721	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5119.05015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5122.67365	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5126.37958	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5130.02652	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5133.71602	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5137.2591	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5141.39473	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5145.17701	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5149.21603	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5153.41162	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5157.4111600000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5161.44739	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5165.39299	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5169.01735	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5173.008129999998	0.00041000000146595994	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5177.36156	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5181.73591	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5185.50663	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5189.21551	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5193.28091	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5197.42166	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5201.3391	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5205.0455	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5209.493860000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5213.07636	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5216.68248	0.00040999999964697054	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5220.32495	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5223.99183	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5228.11321	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5232.18735	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5235.73985	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5240.17148	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5244.40056	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5248.63882	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5252.20264	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5256.56351	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5260.998329999999	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5265.48315	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5269.84252	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5274.1285	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5278.1423	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5281.820320000002	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5285.71932	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5289.353679999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5292.885	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5297.324570000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5301.12629	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5304.92225	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5308.75561	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5312.72309	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5316.87171	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5320.39735	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5324.739970000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5328.79943	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5333.15395	0.00041000000055646524	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5337.00225	0.00041000000055646524	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5340.9487	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5344.50335	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5348.18087	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5352.34409	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5356.17533	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5360.57424	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5364.19282	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5368.68166	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5372.72206	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5376.9294	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5381.42932	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	isoflurane	False	True
+5385.21758	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5389.13252	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5393.09778	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5397.36217	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	isoflurane	False	True
+5401.680789999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	isoflurane	False	True
+5462.52602	0.2495199999993929	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5466.8129	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5471.14986	0.24952999999914027	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5475.16986	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5479.10648	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5483.29329	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5487.36336	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5491.68364	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5495.45345	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5499.239970000001	0.2495199999984834	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5503.5102	0.24953000000004977	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5508.147379999999	0.24954000000070664	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5512.20078	0.2495200000003024	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5516.67116	0.24955000000045402	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5521.37509	0.24955000000045402	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5526.02898	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5529.78212	0.24955000000045402	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5534.20249	0.26621000000068307	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5538.18914	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5542.75959	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5546.72963	0.24953000000004977	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5550.71627	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5554.48611	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5558.5228	0.24954000000070664	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5562.32598	0.24954000000070664	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5566.56284	0.24957000000085827	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5571.28347	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5575.15336	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5579.47364	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5584.09414	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5588.76474	0.24957000000176777	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5592.53456	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5596.65467	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5601.20846	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5605.51205	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5609.398670000001	0.24954999999863503	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5613.70224	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5617.92244	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5621.692270000001	0.2495599999983824	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5626.02922	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5630.43291	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5635.05346	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5639.023429999998	0.24958000000151515	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5643.0101	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5647.16356	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5651.76742	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5655.70406	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5659.707420000002	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5664.161120000002	0.24959999999828142	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5668.74829	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5673.05189	0.24957000000176777	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5677.205379999999	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5680.9919	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5685.52902	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5689.382229999998	0.2495900000030815	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5693.8026	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5697.8393	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5702.00947	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5705.79597	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5710.21632	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5714.82019	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5719.35731	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5723.84442	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5727.88111	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5732.368210000001	0.24954999999863503	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5736.371560000001	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5740.60844	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5745.26235	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5749.63266	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5753.8195	0.24957000000176777	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5757.839529999998	0.24958000000151515	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5762.326620000002	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5766.7803	0.24962999999934254	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5770.767010000001	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5774.63693	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5778.55687	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5782.7604	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5786.74707	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5790.5169	0.24953999999979715	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5794.303370000001	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5798.12327	0.24955000000136351	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5802.7104100000015	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5806.5136	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5811.11748	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5815.22089	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5819.19089	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5823.0608	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5826.94737	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5831.4845	0.26626000000032946	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5835.504529999998	0.24961000000166678	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5839.50788	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5844.06171	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5848.19849	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5852.8524	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5856.82236	0.24961999999959517	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5861.02592	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5865.61308	0.24959999999828142	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5869.683160000001	0.24956999999903928	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5873.61979	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5877.92339	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5882.54393	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5886.54727	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5890.91759	0.24962000000141416	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5895.58816	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5899.60821	0.24956999999903928	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5904.17869	0.2496099999998478	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5908.43227	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5912.8026	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5916.9727600000015	0.26625999999851047	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5920.75923	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5925.02948	0.24959999999828142	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5929.566620000001	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5933.83687	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5937.84022	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5941.69345	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5946.31398	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5950.767720000002	0.24958999999853404	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5954.9379	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5959.40827	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+5964.12889	0.24958000000151515	trials	visual	white circle	n/a	n/a	n/a	isoflurane	False	True
+6000.87659	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6004.40961	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6008.47123	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6012.85351	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6017.02311	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6020.71396	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6024.5833	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6028.54444	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6033.0265	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6036.68332	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6041.039260000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6045.18444	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6049.06113	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6052.75247	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6056.68115	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6060.66359	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6064.28463	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6068.37454	0.00041000000055646524	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6072.10114	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6075.98618	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6080.069579999999	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6083.8218	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6087.61265	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6091.730170000002	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6095.495870000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6099.82067	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6104.30375	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6108.53441	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6112.37871	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6116.46319	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6120.0713700000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6124.47809	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6128.85817	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6133.17635	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6136.93749	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6141.03226	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6144.5552	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6148.48088	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6152.29402	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6155.9559100000015	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6159.63509	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6163.55839	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6167.15303	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6171.25197	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6175.22331	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6179.419660000001	0.00040999999873747583	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6183.61996	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6187.75892	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6191.29294	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6194.8621600000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6198.68218	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6202.71345	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6206.86831	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6210.77635	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6215.09675	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6219.31553	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6223.78459	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6227.81635	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6231.64191	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6235.24795	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6239.359329999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6243.63855	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6247.56243	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6251.15366	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6254.920560000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6258.57464	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6262.35606	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6266.29655	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6270.324110000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6274.28195	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6278.65775	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6282.67623	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6287.12027	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6291.25839	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6295.71651	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6299.45763	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6303.63417	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6307.42365	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6311.59587	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6315.791429999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6319.35985	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6323.11506	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6326.83952	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6331.00778	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6335.3526	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6339.19748	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6343.47842	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6347.65418	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6351.16132	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6355.26392	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6359.15112	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6363.56754	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6367.06911	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6371.03197	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6374.95673	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6378.9180700000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6383.18865	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6387.01155	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6391.296710000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6395.26849	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6398.80467	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6402.48096	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6406.70314	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6410.67704	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6414.33018	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6418.17172	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6422.27952	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6425.97168	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6430.210520000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6433.9538	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6438.37164	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6442.141110000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6446.40704	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6450.09611	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6453.884029999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6457.475570000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6461.552189999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6465.7359700000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6469.78299	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6473.709129999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6477.85399	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6482.00203	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6486.18147	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6490.31767	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6494.76327	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6498.472629999998	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6502.68233	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6506.41898	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6510.0388	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6514.14652	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6518.09708	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6522.05622	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6526.21858	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6530.48928	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6534.33992	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6538.50236	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6542.41894	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6546.76128	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6551.09462	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6554.851479999998	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6558.96536	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6563.04802	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6567.08918	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6571.45954	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6575.22474	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6579.04324	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6582.66287	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6587.10311	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6591.24909	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6595.22897	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6599.36871	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6603.41385	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6607.56159	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6611.60589	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6615.82735	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6619.85027	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6624.3444	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6628.06349	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6631.66971	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6635.27983	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6638.84385	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6642.74884	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6646.697639999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6650.56388	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6654.8278	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6658.956120000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6663.2285200000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6667.661810000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6672.13497	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6675.8274	0.00040999999964697054	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6679.4667	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6683.66338	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6687.25762	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6691.28344	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6695.3142	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6699.67576	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6703.66104	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6707.554920000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6711.72678	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6715.968459999999	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6719.98894	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6723.837079999998	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6727.4875	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6731.57402	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6735.33657	0.00040999999964697054	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6738.88145	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6743.136809999999	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6746.88001	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6750.82283	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6755.01105	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6758.870690000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6763.10745	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6767.0025700000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6771.186409999998	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6775.39087	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6779.33359	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6782.8535900000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6786.68487	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6790.609590000001	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6794.380279999999	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6798.077759999999	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6802.3999	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6806.33024	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6810.7184400000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6814.610040000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6818.87958	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6822.7768	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6827.08574	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6831.34125	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6835.219059999999	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6838.9355	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6843.226320000002	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6847.67605	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6851.50402	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6855.67571	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6859.61476	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6863.94869	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6868.2179700000015	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6871.88565	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6876.24805	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6880.73835	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6884.75319	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6889.137890000001	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6893.22633	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6896.881509999998	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6900.58179	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6904.489170000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6908.73829	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+6913.06429	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+6917.3546700000015	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6921.17361	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+6925.208090000001	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+6928.7984700000015	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+6932.41058	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6936.0473	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6940.22638	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6944.221979999998	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6947.91212	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6951.90754	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+6955.55556	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6959.110959999999	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6963.4621	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6967.52308	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+6971.9531	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+6976.15018	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+6980.2334	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+6984.54922	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+6988.92866	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+6993.418009999999	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+6996.918940000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7001.2848	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7005.397779999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7009.88817	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7013.9162700000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7017.896209999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7022.19797	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7025.92623	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7029.92475	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7034.326029999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7038.40111	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7042.746709999999	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7046.98577	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7051.07217	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7054.819329999998	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7058.98617	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7062.570070000002	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7066.69645	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7070.85781	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7075.087990000001	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7079.479170000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7083.961890000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7088.23134	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7092.3132	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7096.741940000001	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7100.822459999999	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7104.339859999999	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7107.96113	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7112.32428	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7116.309	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7120.65428	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7124.3641	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7128.41682	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7132.54712	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7136.07953	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+7140.19467	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+7144.05751	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7147.60747	0.0004000000017185812	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+7151.5974700000015	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+7155.29041	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7158.913909999998	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7162.61983	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7166.26676	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7169.956259999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7173.49934	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7177.634959999999	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7181.417240000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7185.456259999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7189.65184	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7193.651379999998	0.0004000000017185812	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7197.6876	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7201.6332	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7205.257559999999	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7209.248340000001	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+7213.60176	0.0003999999980806024	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+7217.9761	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7221.74682	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7225.4557	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7229.5211	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7233.661840000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7237.57928	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7241.28568	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7245.73404	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7249.316540000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7252.922659999998	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7256.56511	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7260.23199	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7264.353370000002	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7268.427509999998	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7271.980009999998	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7276.41163	0.0003999999980806024	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7280.64072	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7284.878979999998	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7288.442790000001	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7292.80366	0.0003999999980806024	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7297.23848	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7301.7233	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7306.082659999999	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7310.3686400000015	0.0003999999980806024	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7314.38244	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7318.06046	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7321.959459999999	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7325.59382	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7329.125140000001	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7333.5647	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7337.36642	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7341.16238	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7344.99574	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7348.9632200000015	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7353.11184	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7356.6374799999985	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7360.9801	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7365.039559999998	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7369.39408	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7373.24238	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7377.18882	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7380.74348	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7384.4209999999985	0.0004000000017185812	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7388.584220000002	0.0003999999980806024	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7392.415459999998	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7396.8143599999985	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7400.4329400000015	0.0003999999980806024	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7404.92178	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+7408.962179999998	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7413.16952	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7417.6694400000015	0.0003999999980806024	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+7421.4577	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7425.37264	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+7429.3379	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7433.60228	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+7437.9209	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+7517.8926299999985	0.24966000000313215	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7522.19623	0.2496499999988373	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7526.516509999998	0.2496400000027279	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7530.5365299999985	0.2496400000018184	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7534.47315	0.24965999999858468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7538.6599700000015	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7542.73004	0.24966999999924155	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7547.0503	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7550.82013	0.2496499999997468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7554.623309999999	0.2496500000006563	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7558.87685	0.24967000000197004	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7563.51408	0.24963999999999942	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7567.56745	0.2496500000006563	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7572.0545299999985	0.24965000000156579	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7576.7417799999985	0.2496400000018184	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7581.395659999999	0.24966000000040367	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7585.1488	0.2663299999985611	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7589.58583	0.2496499999997468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7593.55581	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7598.12631	0.2496499999988373	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7602.0963	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7606.08297	0.24962999999934254	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7609.85277	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7613.8895	0.24962999999934254	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7617.69266	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7621.92955	0.2496400000018184	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7626.65015	0.24965999999858468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7630.52006	0.24963999999999942	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7634.84035	0.24962999999934254	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7639.46087	0.2496499999997468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7644.14813	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7647.90125	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7652.02137	0.2496499999997468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7656.57519	0.2496500000006563	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7660.87878	0.24966000000040367	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7664.74868	0.26634999999987485	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7669.06896	0.24966000000040367	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7673.28915	0.24965999999949418	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7677.05899	0.24963999999727093	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7681.39595	0.2496400000009089	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7685.799620000002	0.24966999999924155	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7690.42016	0.2496499999988373	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7694.39015	0.2496499999997468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7698.37682	0.24963999999727093	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7702.5303	0.24965999999949418	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7707.134140000001	0.2496499999997468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7711.07075	0.24965999999858468	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7715.0741	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7719.52785	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7724.114990000001	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7728.41859	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7732.57207	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7736.35858	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7740.89571	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7744.74892	0.24970000000030268	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7749.169309999998	0.24966000000313215	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7753.206	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7757.37617	0.24968000000080792	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7761.16265	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7765.58304	0.24966999999924155	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7770.18687	0.2496899999987363	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7774.7240200000015	0.24968999999691732	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7779.21112	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7783.24782	0.24968000000080792	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7787.73494	0.24963999999818043	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7791.738259999999	0.24968000000171742	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7795.97513	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7800.6457	0.24970000000030268	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7804.99935	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7809.18618	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7813.20623	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7817.69333	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7822.147040000002	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7826.13374	0.24963999999818043	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7830.003629999998	0.24967000000197004	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7833.92357	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7838.127079999998	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7842.130429999998	0.24966000000313215	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7845.9002599999985	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7849.67009	0.24966000000040367	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7853.489959999999	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7858.077109999998	0.24970000000121217	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7861.8803	0.24970000000030268	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7866.48415	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7870.5875799999985	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7874.54089	0.2664100000001781	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7878.427490000001	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7882.31406	0.24971000000186905	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7886.867909999999	0.24967000000106054	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7890.85456	0.26634999999987485	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7894.87458	0.2496900000005553	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7899.4284	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7903.56521	0.24968000000171742	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7908.21909	0.24968000000080792	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7912.18908	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7916.3926	0.24970000000030268	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7920.97977	0.24970000000030268	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7925.04985	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7928.98648	0.24967999999807944	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7933.29009	0.2496899999996458	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7937.910640000001	0.24966999999742256	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7941.913959999999	0.2496800000026269	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7946.28428	0.24971000000095955	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7950.954879999998	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7954.9749	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7959.54539	0.24971000000005006	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7963.798959999999	0.2496900000005553	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7968.1693	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7972.33943	0.2664100000001781	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7976.12597	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7980.39619	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7984.9499700000015	0.24971999999888794	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7989.2035799999985	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7993.2069	0.24970000000030268	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+7997.06014	0.24971000000005006	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+8001.680659999999	0.24969999999939319	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+8006.15109	0.2496899999996458	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+8010.32126	0.24967000000015105	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+8014.77496	0.24967999999989843	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+8019.4956	0.2496900000014648	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+8134.17038	0.0003999999980806024	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8137.7034	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8141.765020000002	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8146.1473099999985	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8150.31691	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8154.00777	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8157.8771099999985	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8161.838259999998	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8166.320320000002	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8169.977140000001	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8174.333090000001	0.0003999999998995918	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8178.47827	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8182.35497	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8186.04631	0.0003999999998995918	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8189.975	0.0003999999998995918	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8193.95744	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8197.57848	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8201.6684	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8205.39501	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8209.28005	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8213.36345	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8217.115670000001	0.00040999999873747583	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8220.90654	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8225.02406	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8228.78976	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8233.11457	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8237.59766	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8241.82832	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8245.672620000001	0.00040999999873747583	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8249.757109999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8253.36529	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8257.77202	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8262.1521	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8266.470290000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8270.23143	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8274.32622	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8277.84916	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8281.77484	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8285.58799	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8289.249890000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8292.92907	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8296.85238	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8300.44702	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8304.54596	0.00041000000055646524	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8308.51731	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8312.713679999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8316.91398	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8321.05295	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8324.58697	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8328.15619	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8331.97622	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8336.0075	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8340.16237	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8344.07041	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8348.39082	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8352.60961	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8357.07868	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8361.11044	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8364.93601	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8368.54205	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8372.65344	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8376.932659999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8380.85655	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8384.44779	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8388.2147	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8391.868779999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8395.6502	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8399.590709999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8403.61827	0.00040999999873747583	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8407.57612	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8411.95193	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+8415.97042	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+8420.41446	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8424.552590000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+8429.01072	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+8432.75184	0.00040999999873747583	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+8436.928390000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+8440.71788	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+8444.8901	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+8449.08567	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8452.6541	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8456.40932	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8460.13378	0.00041000000055646524	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8464.30205	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8468.64688	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8472.49177	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8476.77272	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8480.94848	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8484.45563	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8488.55823	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8492.445440000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8496.86187	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8500.36345	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8504.32632	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8508.25108	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8512.21243	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8516.48302	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8520.30592	0.00040999999873747583	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8524.59109	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8528.56288	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8532.099059999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8535.775370000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8539.99756	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8543.971459999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8547.624609999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8551.46615	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8555.57396	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8559.26613	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8563.50498	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8567.24826	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8571.66611	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8575.4356	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8579.70152	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8583.390609999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8587.17854	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8590.77008	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8594.84671	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8599.0305	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8603.07752	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8607.00367	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8611.14854	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8615.29659	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8619.47603	0.00041000000055646524	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8623.61224	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8628.05785	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8631.76722	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8635.976929999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8639.713590000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8643.33342	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8647.44115	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8651.39171	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8655.350859999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8659.51323	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8663.783940000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8667.63458	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8671.79703	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8675.71362	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8680.05597	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8684.38932	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8688.146190000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8692.26007	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8696.34274	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8700.383909999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8704.75428	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8708.51949	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8712.33799	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8715.95764	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8720.39789	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8724.54388	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8728.52376	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8732.663509999997	0.0004000000026280759	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8736.70866	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8740.856409999999	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8744.90072	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8749.12219	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8753.14511	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8757.63925	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8761.35835	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8764.96458	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8768.5747	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8772.13873	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8776.04373	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8779.992540000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8783.85879	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8788.12272	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8792.25105	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8796.523459999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8800.95675	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8805.42992	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8809.12236	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8812.76167	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8816.958359999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8820.5526	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8824.57843	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8828.6092	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8832.97077	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8836.956059999999	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8840.84995	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8845.02181	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8849.2635	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8853.28399	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8857.13214	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8860.78256	0.00041000000055646524	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8864.86909	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8868.63166	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8872.17654	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8876.43191	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8880.17512	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8884.11795	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8888.30618	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8892.16582	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8896.40259	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8900.29772	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8904.48157	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8908.68604	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8912.628770000001	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8916.14877	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8919.98006	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8923.90479	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8927.675490000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8931.37298	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8935.69513	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8939.62548	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8944.01369	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8947.9053	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8952.17485	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8956.07207	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8960.38102	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+8964.63653	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+8968.51436	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+8972.23081	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+8976.52164	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+8980.971370000001	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+8984.79935	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+8988.97104	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8992.910109999999	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+8997.244040000001	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9001.51333	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9005.18102	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9009.54343	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9014.03374	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9018.04859	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9022.4333	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9026.52175	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9030.17693	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9033.87722	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9037.78461	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9042.03374	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9046.35975	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9050.65014	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9054.46908	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9058.50357	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9062.09396	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9065.70608	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9069.34281	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9073.5219	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9077.51751	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9081.20765	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9085.20308	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9088.85111	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9092.40651	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9096.75766	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9100.81865	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9105.24868	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9109.44577	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9113.529	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9117.84483	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9122.22428	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9126.71363	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9130.21458	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9134.58045	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9138.69343	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9143.18383	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9147.21193	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9151.19188	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9155.49365	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9159.22192	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9163.22045	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9167.62174	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9171.69683	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9176.04244	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9180.28151	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9184.36791	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9188.11508	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9192.28193	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9195.86584	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9199.99222	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9204.15359	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9208.38378	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9212.77497	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9217.2577	0.00041000000055646524	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9221.52715	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9225.60902	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9230.03777	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9234.1183	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9237.63571	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9241.25699	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9245.62014	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9249.60487	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9253.95016	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9257.65999	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9261.71272	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9265.84302	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9269.37545	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9273.4906	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9277.35345	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9280.90341	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9284.89342	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9288.58636	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9292.20987	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9295.91579	0.00041000000055646524	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9299.56274	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9303.25225	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9306.79533	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9310.93096	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9314.71325	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9318.75227	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9322.94786	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9326.94741	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9330.98364	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9334.92925	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9338.55361	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9342.5444	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9346.89783	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9351.27218	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9355.04291	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9358.75179	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9362.8172	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9366.95795	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9370.8754	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9374.5818	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9379.03017	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9382.61268	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9386.2188	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9389.86127	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9393.52816	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9397.64954	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9401.72369	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9405.2762	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9409.70783	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9413.93692	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9418.17519	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9421.73901	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9426.09988	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9430.53471	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9435.01954	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9439.37891	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9443.6649	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9447.67871	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9451.35674	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9455.25574	0.00040999999873747583	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9458.89011	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9462.42143	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9466.86101	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9470.66273	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9474.4587	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9478.29206	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9482.25955	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9486.40818	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9489.93383	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9494.27646	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9498.33592	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9502.69045	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9506.53876	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9510.48521	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9514.03987	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9517.7174	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9521.88063	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9525.71187	0.0004000000008090865	trials	electrical	biphasic	40	MOs	deep	recovery	False	True
+9530.11078	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9533.72937	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9538.21822	0.0003999999989900971	trials	electrical	biphasic	15	MOs	deep	recovery	False	True
+9542.25863	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	False	True
+9546.46598	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9550.96591	0.0003999999989900971	trials	electrical	biphasic	40	MOs	deep	recovery	True	True
+9554.75417	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9558.66912	0.0003999999989900971	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9562.63439	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9566.89878	0.0004000000008090865	trials	electrical	biphasic	15	MOs	deep	recovery	True	True
+9571.21741	0.0004000000008090865	trials	electrical	biphasic	60	MOs	deep	recovery	True	True
+9632.62693	0.24963999999999942	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9636.93056	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9641.25083	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9645.28753	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9649.20748	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9653.41098	0.24963999999999942	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9657.46438	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9661.78466	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9665.55447	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9669.35765	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9673.62789	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9678.2651	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9682.31853	0.24954999999863503	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9686.78891	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9691.49285	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9696.14674	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9699.89988	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9704.33692	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9708.30689	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9712.87738	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9716.84738	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9720.81735	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9724.60384	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9728.64055	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9732.42704	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9736.6639	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9741.40118	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9745.27107	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9749.59135	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9754.21187	0.24962000000414264	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9758.88245	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9762.65225	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9766.77238	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9771.32617	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9775.62976	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9779.51635	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9783.81993	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9788.02343	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9791.80994	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9796.13022	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9800.55058	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9805.17113	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9809.14109	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9813.12777	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9817.28124	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9821.88509	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9825.80504	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9829.82506	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9834.27877	0.24962999999843305	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9838.865940000003	0.24961999999686668	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9843.16956	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9847.32303	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9851.10954	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9855.64664	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9859.49986	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9863.90356	0.2662799999998242	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9867.94026	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9872.12711	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9875.9136	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9880.33396	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9884.93781	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9889.47494	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9893.96202	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9897.99875	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9902.48583	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9906.48916	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9910.72605	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9915.37995	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9919.75027	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9923.93709	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9927.95711	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9932.42755	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9936.89793	0.24963999999999942	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9940.88461	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9944.7545	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9948.67447	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9952.8613	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9956.86464	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9960.63446	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9964.42096	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9968.24086	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9972.828	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+9976.61451	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	True	True
+9981.23503	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	True	True
+9985.33847	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	True	True
+9989.30846	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	True	True
+9993.1617	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	True	True
+9997.06498	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	recovery	True	True
+10001.60209	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10005.60542	0.2662899999995716	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10009.60878	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10014.16261	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10018.31607	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10022.96994	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10026.93995	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10031.14346	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10035.71397	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10039.80071	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10043.73735	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10048.04092	0.24963000000025204	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10052.66149	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10056.66484	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10061.03516	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10065.70574	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10069.70909	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10074.29625	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10078.53315	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10082.90346	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10087.10696	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10090.87679	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10095.13034	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10099.68417	0.2496099999989383	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10103.93772	0.2496000000010099	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10107.95777	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10111.81098	0.2495999999991909	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10116.43151	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10120.88524	0.24962000000050466	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10125.03871	0.2662799999998242	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10129.50914	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True
+10134.22975	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	recovery	False	True

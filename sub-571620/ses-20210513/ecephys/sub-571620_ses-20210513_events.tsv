@@ -1,0 +1,1683 @@
+onset	duration	nwb_table	stimulus_type	stimulus_description	estim_current	estim_target_region	estim_target_depth	behavioral_epoch	is_running	is_valid
+477.89069000000006	0.0003999999999564352	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+481.42371	0.0003999999999564352	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+485.48534000000006	0.0003999999999564352	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+489.86763	0.0003999999999564352	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+494.03723	0.00040999999998803105	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+497.7281	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+501.59745	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+505.55859	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+510.04066	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+513.69749	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+518.05344	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+522.19863	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+526.07533	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+529.76668	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+533.6953599999998	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+537.6778099999998	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+541.29885	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+545.38878	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+549.11539	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+553.0004299999998	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+557.08384	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+560.8360700000002	0.00039999999978590495	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+564.62693	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+568.74446	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+572.51017	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+576.83497	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+581.31807	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+585.54873	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+589.39304	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+593.47753	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+597.08571	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+601.49244	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+605.87253	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+610.19072	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+613.95187	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+618.04665	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+621.5696	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+625.49528	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+629.3084299999998	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+632.97033	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+636.64952	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+640.57282	0.00040999999998803105	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+644.16747	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+648.26642	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+652.23776	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+656.43413	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+660.63444	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+664.77341	0.00039999999978590495	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+668.30743	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+671.87666	0.00039999999978590495	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+675.69668	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+679.72797	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+683.88284	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+687.79088	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+692.11129	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+696.33008	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+700.79915	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+704.83092	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+708.65648	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+712.26253	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+716.37392	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+720.65314	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+724.57703	0.00039999999978590495	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+728.16827	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+731.93518	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+735.58926	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+739.3706900000002	0.00039999999978590495	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+743.3112	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+747.33876	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+751.29661	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+755.67242	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+759.6909099999998	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+764.13496	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+768.2730799999998	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+772.7312099999998	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+776.47234	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+780.64889	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+784.43837	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+788.6106	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+792.8061700000002	0.00039999999978590495	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+796.37459	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+800.12982	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+803.85428	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+808.02255	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+812.36738	0.00039999999978590495	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+816.21227	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+820.4932200000002	0.00039999999978590495	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+824.66898	0.00039999999978590495	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+828.17613	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+832.27873	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+836.1659400000002	0.00039999999978590495	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+840.58237	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+844.08395	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+848.0468199999998	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+851.97159	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+855.93293	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+860.2035199999998	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+864.0264300000001	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+868.3116	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+872.2833800000002	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+875.8195699999999	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+879.49587	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+883.7180599999998	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+887.69197	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+891.34511	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+895.18666	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+899.29446	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+902.98663	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+907.22548	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+910.96876	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+915.38661	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+919.1561	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+923.42203	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+927.11111	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+930.89904	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+934.49058	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+938.56721	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+942.751	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+946.79802	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+950.72417	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+954.86904	0.0004000000000132786	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+959.01709	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+963.19653	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+967.33274	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+971.77835	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+975.48772	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+979.69742	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+983.43409	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+987.05391	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+991.16164	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+995.11221	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+999.07135	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1003.23372	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1007.50443	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1011.35508	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1015.51752	0.0004000000000132786	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1019.43411	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1023.77646	0.0004000000000132786	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1028.10981	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1031.86667	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1035.98056	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1040.06323	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1044.1044	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1048.47477	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1052.23997	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1056.05848	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1059.67812	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1064.11837	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1068.26436	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1072.24424	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1076.38399	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1080.42914	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1084.57689	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1088.62119	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1092.84266	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1096.86559	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1101.35972	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1105.07882	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1108.68505	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1112.29517	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1115.8592	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1119.7642	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1123.71301	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1127.57925	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1131.84318	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1135.97151	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1140.24392	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1144.67721	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1149.15038	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1152.8428199999996	0.00040000000035433914	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1156.48213	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1160.67881	0.0004099999998743442	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1164.27306	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1168.29889	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1172.32965	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1176.69122	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1180.67651	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1184.57039	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1188.74226	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1192.98395	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1197.00444	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1200.85258	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1204.50301	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1208.58953	0.0004100000001017179	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1212.3521	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1215.89698	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1220.15235	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1223.89556	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1227.83838	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1232.02661	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1235.88626	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1240.12303	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1244.01815	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1248.202	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1252.40647	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1256.34919	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1259.8692	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1263.70048	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1267.62521	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1271.39591	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1275.0934	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1279.41555	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1283.34589	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1287.7341	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1291.62571	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1295.89526	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1299.79248	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1304.1014300000004	0.0003999999996722181	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1308.35694	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1312.23477	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1315.95121	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1320.24204	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1324.69177	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1328.51975	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1332.69144	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1336.63051	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1340.96444	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1345.2337300000004	0.0003999999996722181	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1348.90141	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1353.26382	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1357.75413	0.00040000000035433914	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1361.76898	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1366.15368	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1370.24213	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1373.89732	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1377.5976	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1381.50499	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1385.75411	0.0004099999998743442	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1390.08012	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1394.37051	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1398.18946	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1402.22394	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1405.8143300000004	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1409.42645	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1413.06318	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1417.24226	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1421.23787	0.0003999999996722181	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1424.9280199999996	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1428.92344	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1432.57147	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1436.1268699999996	0.00040000000035433914	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1440.47802	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1444.53901	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1448.96903	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1453.16612	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1457.24935	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1461.56518	0.00040000000035433914	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1465.94463	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1470.43398	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1473.93492	0.0003999999996722181	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1478.30079	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1482.41378	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1486.90417	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1490.93227	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1494.91222	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1499.21399	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1502.94225	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1506.94078	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1511.34207	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1515.41716	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1519.76276	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1524.0018300000004	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1528.08824	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1531.8354	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1536.00225	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1539.58616	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1543.71254	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1547.87391	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1552.1041	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1556.49529	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1560.97802	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1565.24746	0.0004099999998743442	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1569.32933	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1573.75808	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1577.83861	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1581.35601	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1584.9773	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1589.34044	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1593.3251699999996	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1597.67046	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1601.38028	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1605.43301	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1609.56332	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1613.09574	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1617.21089	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1621.07373	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1624.6237	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1628.6137	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1632.30665	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1635.93015	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1639.63608	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1643.28302	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1646.97253	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1650.51561	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1654.65124	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	True	True
+1658.4335199999996	0.00040000000035433914	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1662.47255	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	True	True
+1666.66814	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	True	True
+1670.66768	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1674.70391	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1678.6495100000004	0.0003999999996722181	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1682.27388	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1686.26466	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1690.61809	0.0003999999996722181	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1694.9924399999998	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1698.76317	0.0003999999996722181	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1702.47205	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1706.5374600000002	0.0003999999996722181	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1710.67821	0.00040000000035433914	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1714.59565	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1718.3020600000002	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1722.75043	0.00040000000035433914	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1726.33293	0.00040000000035433914	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1729.93905	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1733.58152	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1737.2484	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1741.3697899999993	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1745.44394	0.0003999999996722181	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1748.99644	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1753.42807	0.0003999999996722181	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1757.6571600000002	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1761.8954199999996	0.00040000000035433914	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1765.45925	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1769.82012	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1774.25495	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1778.73977	0.0004100000001017179	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1783.0991399999998	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1787.38513	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1791.3989399999996	0.00040000000035433914	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1795.07696	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1798.97597	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1802.61033	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1806.14166	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1810.58122	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1814.38295	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1818.17891	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1822.01228	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1825.97977	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1830.12839	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1833.65404	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1837.99667	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1842.05613	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1846.41066	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1850.25897	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1854.2054100000007	0.00039999999921747076	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1857.76008	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1861.4376	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1865.60083	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1869.43207	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1873.83098	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1877.44957	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1881.93841	0.00040000000012696546	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1885.97882	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1890.18617	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1894.6861	0.00040000000012696546	trials	electrical	biphasic	80	SSp	superficial	awake	False	True
+1898.47436	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1902.3893100000007	0.00039999999921747076	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1906.35458	0.00040000000012696546	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1910.61896	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	awake	False	True
+1914.93759	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	awake	False	True
+1994.41713	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+1998.72071	0.24945000000002437	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2003.041	0.24945000000002437	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2007.07772	0.24943000000007487	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2010.99766	0.24945000000002437	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2015.20117	0.2494299999998475	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2019.25455	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2023.57484	0.24942000000010012	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2027.34462	0.24946999999997388	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2031.14784	0.24941999999987274	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2035.41806	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2040.03859	0.24943999999982225	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2044.09195	0.24946999999997388	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2048.57906	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2053.28298	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2057.93685	0.2494299999998475	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2061.68999	0.24943000000030224	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2066.12703	0.2494299999998475	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2070.09699	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2074.66746	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2078.63747	0.2494699999997465	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2082.60745	0.249430000000757	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2086.39393	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2090.43064	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2094.21714	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2098.45397	0.2494699999997465	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2103.17462	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2107.06119	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2111.36481	0.24942000000010012	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2115.98532	0.24943000000030224	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2120.67259	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2124.42571	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2128.54582	0.24944000000095912	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2133.09964	0.24943000000030224	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2137.41992	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2141.28982	0.2494299999998475	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2145.61009	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2149.8136	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2153.58342	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2157.92037	0.24947000000020125	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2162.324060000001	0.24944999999934225	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2166.96125	0.24949000000015076	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2170.9146	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2174.91793	0.249430000000757	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2179.05474	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2183.67526	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2187.5952	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2191.61523	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2196.06897	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2200.65613	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2204.94304	0.24942000000010012	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2209.11319	0.2494699999997465	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2212.89971	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2217.42013	0.24947000000020125	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2221.27339	0.24943000000030224	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2225.67707	0.26611000000002605	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2229.73045	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2233.9173	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2237.7038	0.24943000000030224	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2242.10747	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2246.728	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2251.24845	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2255.73555	0.2661400000001777	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2259.7889600000008	0.24942999999939275	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2264.25934	0.249470000000656	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2268.27939	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2272.51625	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2277.17017	0.24944000000095912	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2281.52379	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2285.71064	0.26611000000002605	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2289.74735	0.2494699999997465	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2294.21775	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2298.67148	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2302.65814	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2306.54474	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2310.44801	0.2494500000007065	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2314.65153	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2318.65488	0.2494500000007065	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2322.42471	0.24943000000030224	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2326.21121	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2330.0310600000007	0.24945999999908963	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2334.60156	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2338.40473	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2343.02529	0.2494299999998475	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2347.11203	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2351.08201	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2354.95192	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2358.8552	0.24942000000010012	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2363.39231	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2367.41233	0.249489999999696	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2371.39902	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	True	True
+2375.95282	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2380.1063	0.24947000000020125	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2384.7602	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2388.71352	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2392.93373	0.24943999999959487	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2397.5042	0.24947000000020125	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2401.5742800000007	0.24945999999908963	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2405.52759	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2409.8312	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2414.45172	0.24947000000020125	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2418.4384	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2422.80874	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2427.49597	0.24949000000015076	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2431.49933	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2436.08649	0.24947999999994863	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2440.3234	0.249449999999797	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2444.69371	0.24947000000020125	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2448.88055	0.24949000000015076	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2452.65038	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2456.92063	0.24944000000004962	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2461.47443	0.2494699999997465	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2465.7280100000007	0.24943999999914013	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2469.74803	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2473.58459	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2478.205110000001	0.24945999999908963	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2482.67554	0.24943999999959487	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2486.84568	0.24945999999999913	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2491.28271	0.26617000000078406	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2496.02004	0.24945000000025175	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+2720.728960000001	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2724.26199	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2728.323610000001	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2732.7059	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2736.8755100000008	0.00039999999944484443	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2740.56637	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2744.43572	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2748.3968600000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2752.87893	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2756.53576	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+2760.891710000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+2765.03689	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+2768.9136	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+2772.60494	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+2776.53363	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+2780.51607	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+2784.13712	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2788.22704	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2791.95365	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2795.83869	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2799.9221	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2803.67432	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2807.46519	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2811.58272	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2815.34842	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2819.67323	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2824.15632	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2828.38698	0.00040999999964697054	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2832.23129	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2836.31578	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2839.92396	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2844.33069	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2848.71078	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2853.02897	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2856.790110000001	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+2860.8849	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2864.40784	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2868.33353	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2872.14667	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2875.80857	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2879.48776	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2883.411060000001	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2887.005710000001	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2891.10465	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2895.076	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2899.27237	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2903.47267	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+2907.61164	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+2911.14566	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+2914.71489	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+2918.5349100000008	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+2922.5662	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+2926.72107	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+2930.6291100000008	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+2934.94952	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2939.16831	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2943.63738	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2947.66914	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2951.49471	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2955.10075	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2959.21214	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2963.49137	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2967.41525	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2971.00649	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2974.7734	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2978.4274800000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+2982.2089100000007	0.00039999999944484443	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2986.14941	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2990.17698	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+2994.13482	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+2998.51063	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3002.52912	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3006.97317	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3011.1113	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3015.56942	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3019.31055	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3023.4871	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3027.27658	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3031.448810000001	0.00039999999944484443	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3035.64437	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3039.2128	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3042.96802	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3046.69249	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3050.86075	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3055.2055800000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3059.05047	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3063.33141	0.0004100000001017179	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3067.50718	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3071.01432	0.00040999999964697054	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3075.11693	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3079.00414	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3083.42057	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3086.92215	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3090.88501	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3094.80978	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3098.77113	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3103.04171	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3106.86462	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3111.14979	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3115.12157	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3118.65775	0.0004100000001017179	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3122.33406	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3126.55625	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3130.53015	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3134.1833	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3138.02484	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3142.13265	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3145.82481	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3150.0636600000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3153.80694	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3158.22479	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3161.99428	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3166.2602	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3169.94929	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3173.73721	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3177.328760000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3181.40538	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3185.58917	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3189.6362	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3193.56234	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3197.70721	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3201.8552600000007	0.00039999999944484443	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3206.0347	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3210.1709100000007	0.00039999999944484443	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3214.61652	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3218.32588	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3222.53559	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3226.27225	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3229.89208	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3233.9998	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3237.95037	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3241.90952	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3246.07188	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3250.34259	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3254.19324	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3258.35568	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3262.27227	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3266.61462	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3270.94796	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3274.70483	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3278.81872	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3282.90138	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3286.94255	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3291.31292	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3295.07812	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3298.89663	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3302.51627	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3306.95652	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3311.10251	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3315.08239	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3319.22214	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3323.26728	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3327.41503	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3331.45934	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3335.6808	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3339.70373	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3344.19786	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3347.91696	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3351.52319	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3355.13331	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3358.6973299999995	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3362.60234	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3366.55115	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3370.41739	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3374.68132	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3378.80964	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3383.08205	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3387.51534	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3391.98851	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3395.68095	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3399.32026	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3403.51695	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3407.11119	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3411.137010000001	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3415.16778	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3419.52935	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3423.51464	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3427.4085200000004	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3431.58039	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3435.82207	0.00040999999964697054	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3439.84256	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3443.6907100000008	0.00039999999944484443	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3447.34113	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3451.4276600000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3455.1902200000004	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3458.7351	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3462.99047	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3466.73368	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3470.6765	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3474.86473	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3478.724370000001	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3482.96114	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3486.85627	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3491.040110000001	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3495.24458	0.00039999999944484443	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3499.1873100000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3502.70731	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3506.53859	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3510.4633200000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3514.234020000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3517.931510000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3522.2536600000008	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3526.184	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3530.5722100000007	0.00039999999944484443	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3534.46381	0.00041000000055646524	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3538.73336	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3542.63059	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3546.93954	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3551.19504	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3555.0728700000004	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3558.78931	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3563.08014	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3567.5298700000008	0.00039999999944484443	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3571.35785	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3575.52954	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3579.4686	0.00041000000055646524	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3583.8025299999995	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3588.07182	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3591.7395	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3596.1019100000008	0.00039999999944484443	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3600.5922200000005	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3604.60706	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3608.99177	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3613.08022	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3616.7354	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3620.43568	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3624.34307	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3628.59219	0.0004100000001017179	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3632.9182	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3637.20859	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3641.02753	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3645.06202	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3648.6524	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3652.26452	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3655.90124	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3660.08033	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3664.07593	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3667.76608	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3671.7615	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3675.40952	0.00040000000126383384	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3678.96492	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3683.31607	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3687.37705	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3691.80708	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3696.00417	0.00040000000126383384	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3700.08739	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3704.40322	0.00040000000126383384	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3708.78266	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3713.27201	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3716.77295	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3721.13881	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3725.2518	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3729.74218	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3733.77029	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3737.75023	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3742.052	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3745.78026	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3749.77878	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3754.18007	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3758.25515	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3762.60075	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3766.83982	0.00040000000126383384	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3770.92622	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3774.67338	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3778.84023	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3782.42413	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3786.55051	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3790.71187	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3794.94206	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3799.33324	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3803.81597	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3808.08541	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3812.16727	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3816.59602	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3820.67654	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3824.19394	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3827.81522	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3832.17836	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3836.16308	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3840.5083700000014	0.00039999999853534973	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3844.21819	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3848.27091	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3852.40121	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3855.93363	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3860.04877	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3863.91162	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3867.46157	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	True	True
+3871.45158	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3875.14452	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3878.76802	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3882.47394	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3886.12088	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3889.81038	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3893.35345	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3897.48908	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	True	True
+3901.27136	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3905.31038	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3909.50596	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3913.5055	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3917.54173	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3921.48733	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3925.11169	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3929.10247	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3933.45589	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3937.83024	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3941.60096	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3945.30984	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3949.37524	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3953.51598	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3957.43342	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3961.13982	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3965.58818	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3969.17068	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3972.7768	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	True	True
+3976.41926	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3980.08614	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+3984.20752	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+3988.28167	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3991.83417	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+3996.26579	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4000.49487	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4004.73313	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4008.29695	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4012.65782	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4017.09264	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4021.57746	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4025.93683	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4030.22281	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4034.23661	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4037.91463	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4041.81363	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4045.44799	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4048.97931	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4053.41887	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4057.22059	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4061.01655	0.00040000000035433914	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4064.84991	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4068.81739	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4072.96602	0.00040000000035433914	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4076.49165	0.0004100000001017179	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4080.83428	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4084.89374	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4089.24826	0.00040000000035433914	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4093.09656	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4097.043	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4100.59766	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4104.27518	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4108.4384	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4112.26964	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4116.66855	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4120.28712	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4124.7759700000015	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4128.816370000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4133.02371	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4137.52363	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	awake	False	True
+4141.31189	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4145.22683	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4149.1921	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4153.45648	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	awake	False	True
+4157.7751	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	awake	False	True
+4291.496200740019	225.96000000000004	epochs								
+4517.466200740018	4917.07	epochs								
+5492.951529999999	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5496.48454	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5500.54616	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5504.92845	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5509.09805	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5512.78891	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5516.65824	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5520.61938	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5525.10145	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5528.758260000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5533.11421	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5537.25939	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5541.136079999998	0.0004000000017185812	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5544.827420000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5548.7561	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5552.73854	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5556.359579999999	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5560.4495	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5564.1761	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5568.06114	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5572.14454	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5575.896760000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5579.6876200000015	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5583.80514	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5587.57083	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5591.89564	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5596.3787200000015	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5600.60938	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5604.45368	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5608.53816	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5612.14634	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5616.55306	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5620.93314	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5625.25132	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5629.01246	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5633.10724	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5636.63018	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5640.55586	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5644.3690000000015	0.0003999999980806024	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5648.03089	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5651.71007	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5655.633370000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5659.22801	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5663.32695	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5667.29829	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5671.49465	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5675.69495	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5679.83391	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5683.367929999999	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5686.93715	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5690.75717	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5694.78845	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5698.9433100000015	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5702.85135	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5707.17175	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5711.39053	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5715.85959	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5719.89135	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5723.71691	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5727.32295	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5731.43433	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5735.71355	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5739.63743	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5743.22867	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5746.99557	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5750.64964	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5754.43106	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5758.371560000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5762.39912	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5766.35696	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5770.73276	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5774.75124	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5779.19529	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5783.33341	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5787.79153	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5791.53265	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5795.70919	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5799.49867	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5803.670889999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5807.86645	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5811.43487	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5815.19009	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5818.91455	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5823.08281	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5827.42763	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5831.27251	0.0004000000017185812	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5835.55345	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5839.72921	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5843.23635	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5847.33895	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5851.22615	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5855.64257	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5859.14415	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5863.10701	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5867.031770000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5870.99311	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5875.26369	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5879.08659	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5883.37176	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5887.34354	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5890.87972	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5894.55601	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5898.7782	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5902.7521	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5906.40524	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5910.24678	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5914.354579999998	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5918.04674	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5922.28558	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5926.02886	0.00040999999964697054	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5930.44671	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5934.21619	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5938.48211	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5942.17119	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5945.95912	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5949.55066	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5953.62728	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5957.81106	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5961.85808	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5965.784229999998	0.0004000000017185812	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5969.92909	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5974.07713	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5978.256579999998	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5982.39278	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+5986.83839	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+5990.54775	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5994.75745	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+5998.49412	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6002.11394	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6006.22166	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6010.17222	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6014.13137	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6018.293729999999	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6022.56444	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6026.41508	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6030.57753	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6034.4941100000015	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6038.83645	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6043.1698	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6046.92666	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6051.04055	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6055.12321	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6059.164379999998	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6063.53474	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6067.29995	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6071.11845	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6074.73809	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6079.17834	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6083.32433	0.0003999999980806024	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6087.30421	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6091.443960000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6095.4891	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6099.63685	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6103.68115	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6107.902620000002	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6111.92554	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6116.41967	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6120.138770000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6123.745	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6127.35512	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6130.91914	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6134.82415	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6138.77295	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6142.6392	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6146.90312	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6151.03145	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6155.30386	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6159.73714	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6164.21031	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6167.90276	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6171.54206	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6175.73875	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6179.33299	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6183.35882	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6187.38958	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6191.75115	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6195.73644	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6199.63032	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6203.802189999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6208.04387	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6212.06436	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6215.91251	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6219.56293	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6223.649460000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6227.412020000002	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6230.9569	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6235.21227	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6238.95548	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6242.8983	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6247.08653	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6250.94617	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6255.18294	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6259.078070000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6263.26192	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6267.46638	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6271.409110000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6274.92911	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6278.7604	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6282.68512	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6286.45583	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6290.1533100000015	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6294.4754600000015	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6298.40581	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6302.79402	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6306.68562	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6310.95517	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6314.8524	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6319.16135	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6323.41686	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6327.29468	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6331.01113	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6335.30196	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6339.75169	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6343.57967	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6347.75136	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6351.69043	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6356.02436	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6360.29364	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6363.96133	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6368.32374	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6372.81405	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6376.8289	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6381.21361	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6385.30205	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6388.95724	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6392.657520000002	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6396.56491	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6400.81404	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6405.14005	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6409.43044	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6413.249379999998	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6417.28387	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6420.874260000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6424.486379999999	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6428.12311	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6432.302189999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6436.2978	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6439.98795	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6443.98337	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6447.6314	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6451.1868	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6455.53795	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6459.59894	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6464.02897	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6468.22606	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6472.30929	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6476.6251200000015	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6481.00457	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6485.49392	0.0004000000017185812	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6488.99486	0.0004000000017185812	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6493.360729999999	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6497.47372	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6501.96411	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6505.99222	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6509.97217	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6514.27394	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6518.0022100000015	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6522.00073	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6526.40202	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6530.47711	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6534.82272	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6539.06179	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6543.1482	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6546.89537	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6551.06221	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6554.64612	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6558.77251	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6562.93388	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6567.164070000002	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6571.55526	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6576.03799	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6580.30744	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6584.389310000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6588.818060000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6592.89859	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6596.41599	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6600.03728	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6604.40043	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6608.38515	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6612.73044	0.00040999999964697054	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6616.44027	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6620.493	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6624.62331	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6628.15573	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6632.27088	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6636.13373	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6639.68369	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6643.6737	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6647.36665	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6650.99015	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6654.69608	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6658.34302	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6662.03253	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6665.575620000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6669.71124	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6673.49353	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6677.5325600000015	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6681.72815	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6685.7277	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6689.76392	0.00040999999964697054	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6693.70953	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6697.3339	0.0004000000008090865	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6701.32469	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6705.678120000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6710.052470000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6713.823190000001	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6717.53208	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6721.597490000001	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6725.7382400000015	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6729.655690000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6733.362090000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6737.81046	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6741.39297	0.0004000000017185812	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6744.99909	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6748.641559999999	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6752.308440000002	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6756.42983	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6760.50398	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6764.056490000001	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6768.48812	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6772.71721	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6776.95548	0.0004000000008090865	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6780.5193	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6784.88017	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6789.315009999998	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6793.7998400000015	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6798.15921	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6802.4452	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6806.45901	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6810.13703	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6814.036040000001	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6817.6704	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6821.20173	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6825.6413	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6829.443029999999	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6833.238990000002	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6837.072359999999	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6841.03985	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6845.18848	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6848.7141200000015	0.0003999999989900971	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6853.05675	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6857.11622	0.0004000000017185812	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6861.47075	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6865.31906	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6869.265509999998	0.0004000000008090865	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6872.82017	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6876.4977	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6880.66093	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6884.492179999998	0.0004000000017185812	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6888.891090000001	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6892.50967	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6896.99852	0.0003999999998995918	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6901.03893	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6905.246279999999	0.0003999999989900971	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6909.746209999998	0.0003999999998995918	trials	electrical	biphasic	80	SSp	deep	isoflurane	False	True
+6913.534479999998	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6917.44943	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6921.4147	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6925.679090000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	deep	isoflurane	False	True
+6929.99772	0.0003999999998995918	trials	electrical	biphasic	100	SSp	deep	isoflurane	False	True
+6966.63514	0.24961999999868567	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6970.938770000002	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6975.25902	0.24958999999853404	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6979.279070000001	0.2495599999983824	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6983.215690000001	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6987.419209999999	0.2495600000011109	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6991.4726	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6995.79286	0.24957000000085827	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+6999.5627	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7003.36585	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7007.636090000001	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7012.2566	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7016.31	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7020.797059999999	0.24958000000242464	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7025.4843	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7030.1382	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7033.90802	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7038.32837	0.24957000000085827	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7042.29835	0.2495599999983824	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7046.8688200000015	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7050.8555	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7054.825470000002	0.24954999999863503	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7058.61197	0.24957000000085827	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7062.648679999998	0.24954000000161614	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7066.435159999999	0.2495600000011109	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7070.67203	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7075.392640000001	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7079.27923	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7083.582820000001	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7088.20336	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7092.8906	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7096.64375	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7100.763859999999	0.2495600000011109	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7105.31764	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7109.621259999999	0.24958000000242464	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7113.50783	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7117.81145	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7122.03165	0.24955000000045402	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7125.80146	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7130.13841	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7134.5421	0.24957000000176777	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7139.16262	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7143.13259	0.2496099999998478	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7147.13595	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7151.27275	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7155.876590000002	0.24958999999671505	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7159.81323	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7163.81658	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7168.270309999999	0.24958000000242464	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7172.85749	0.24956999999903928	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7177.16107	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7181.31454	0.2662799999998242	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7185.10103	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7189.6381900000015	0.2495599999983824	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7193.49142	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7197.911779999999	0.24955000000045402	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7201.948490000002	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7206.11865	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7209.90515	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7214.32552	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7218.929370000002	0.24954999999863503	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7223.46648	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7227.953590000001	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7232.00697	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7236.47737	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7240.497409999999	0.24957000000085827	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7244.71763	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7249.3882	0.24954999999954453	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7253.74183	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7257.92868	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7261.9487	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7266.43577	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7270.889529999998	0.24956000000383938	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7274.87617	0.2496000000019194	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7278.762790000002	0.2495599999983824	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7282.66606	0.2495600000020204	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7286.86955	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7290.8729	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7294.64273	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7298.39588	0.26626000000032946	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7302.23242	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7306.8195799999985	0.2495900000030815	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7310.622759999998	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7315.22661	0.2496000000001004	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7319.330059999998	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7323.30005	0.24957999999787717	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7327.16997	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7331.05654	0.24961000000075728	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7335.61037	0.2495599999992919	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7339.61373	0.2495600000002014	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7343.61705	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7348.154179999998	0.2662700000018958	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7352.30767	0.24958999999944353	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7356.96158	0.24956999999994878	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7360.93154	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7365.15176	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7369.72226	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7373.79232	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7377.7456299999985	0.2495900000030815	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7382.03256	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7386.65308	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7390.656440000002	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7395.02675	0.2496099999998478	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7399.69735	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7403.717390000002	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7408.30456	0.2495600000020204	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7412.541429999998	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7416.91175	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7421.0986	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7424.868409999999	0.24959000000126252	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7429.13866	0.24958000000060565	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7433.69249	0.2495699999981298	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7437.94603	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7441.94938	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7445.80262	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7450.42315	0.24957999999878666	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7454.89357	0.24955000000136351	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7459.06373	0.24954000000161614	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7463.51745	0.24957999999969616	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7468.23806	0.24959000000035303	trials	visual	white circle	n/a	n/a	n/a	awake	False	True
+7914.23625	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+7917.769270000002	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+7921.8309	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+7926.21319	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7930.3828	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7934.073670000002	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7937.943009999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7941.904159999999	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+7946.38623	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+7950.04305	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+7954.399	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7958.54419	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7962.4209	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+7966.11224	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+7970.04093	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+7974.02338	0.0003999999980806024	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7977.64442	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+7981.73435	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7985.46095	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+7989.346	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7993.42941	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+7997.18163	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8000.9725	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8005.0900299999985	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8008.855729999998	0.0004000000017185812	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8013.18054	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8017.66363	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8021.8943	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8025.7386099999985	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8029.823090000001	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8033.43128	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8037.838009999998	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8042.2181	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8046.536290000001	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8050.29743	0.0003999999980806024	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8054.3922200000015	0.0003999999980806024	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8057.91516	0.0003999999980806024	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8061.84085	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8065.654	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8069.3159	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8072.99509	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8076.918390000002	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8080.513040000002	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8084.61198	0.00041000000055646524	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8088.583329999998	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8092.7797	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8096.980009999998	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8101.118979999998	0.0004000000017185812	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8104.653	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8108.2222200000015	0.0003999999980806024	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8112.04225	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8116.07354	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8120.22841	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8124.13645	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8128.456859999998	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8132.67565	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8137.14472	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8141.176490000002	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8145.00205	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8148.6081	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8152.71948	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8156.99871	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8160.9226	0.0004000000017185812	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8164.51384	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8168.28075	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8171.93483	0.0003999999998995918	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8175.716259999998	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8179.65677	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8183.68433	0.0003999999998995918	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8187.64218	0.0003999999998995918	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8192.01799	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8196.036479999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8200.480529999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8204.61865	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8209.07678	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8212.81791	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8216.99446	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8220.783940000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8224.95617	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8229.151740000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8232.720159999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8236.475390000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8240.19985	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8244.368120000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8248.71295	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8252.557840000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8256.83879	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8261.01455	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8264.5217	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8268.6243	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8272.51151	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8276.927940000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8280.42952	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8284.39239	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8288.317159999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8292.2785	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8296.54909	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8300.372	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8304.65717	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8308.62895	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8312.165140000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8315.84144	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8320.06363	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8324.037540000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8327.69068	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8331.532229999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8335.64003	0.00041000000055646524	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8339.3322	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8343.57105	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8347.31433	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8351.732179999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8355.50167	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8359.7676	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8363.45668	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8367.24461	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8370.83615	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8374.91278	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8379.09657	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8383.143590000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8387.06974	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8391.214609999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8395.362659999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8399.5421	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8403.67831	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8408.12392	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8411.83329	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8416.04299	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8419.77966	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8423.39948	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8427.50721	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8431.457779999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8435.41692	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8439.579290000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8443.85	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8447.70065	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8451.86309	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8455.77968	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8460.12203	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8464.45538	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8468.21224	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8472.32613	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8476.4088	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8480.44996	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8484.82033	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8488.58554	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8492.404040000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8496.02369	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8500.463940000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8504.60993	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8508.58981	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8512.72956	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8516.77471	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8520.92245	0.00040999999873747583	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8524.96676	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8529.18823	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8533.211159999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8537.70529	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8541.42439	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8545.03062	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8548.64074	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8552.204759999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8556.109770000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8560.058579999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8563.92482	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8568.18875	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8572.317079999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8576.58949	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8581.02278	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8585.49595	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8589.188390000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8592.82769	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8597.024379999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8600.618629999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8604.64445	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8608.675220000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8613.03679	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8617.022079999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8620.91596	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8625.08783	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8629.329520000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8633.35	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8637.19815	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8640.84857	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8644.9351	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8648.69767	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8652.24255	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8656.49792	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8660.24112	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8664.18395	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8668.37218	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8672.23182	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8676.46859	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8680.363720000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8684.547559999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8688.75203	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8692.694759999997	0.0004000000026280759	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8696.214759999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8700.04605	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8703.97077	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8707.74148	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8711.43896	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8715.76111	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8719.69146	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8724.079670000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8727.97127	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8732.24082	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8736.13805	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8740.44699	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8744.7025	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8748.580329999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8752.29677	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8756.5876	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8761.03733	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8764.86532	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8769.037	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8772.97607	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8777.31	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8781.579290000001	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8785.24697	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8789.60938	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8794.099690000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8798.11454	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8802.49925	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8806.58769	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8810.24288	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8813.943159999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8817.85055	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8822.09967	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8826.42568	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8830.71607	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8834.535020000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8838.5695	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8842.15989	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8845.772009999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8849.40873	0.00041000000055646524	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8853.58782	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8857.58343	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8861.273570000001	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8865.269	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8868.91702	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8872.47243	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8876.82358	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8880.884559999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8885.31459	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8889.51168	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8893.59491	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8897.91073	0.00041000000055646524	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8902.29018	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8906.77953	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8910.28048	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8914.64635	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8918.759329999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8923.24972	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8927.277829999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8931.25777	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8935.55954	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8939.28781	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8943.286329999999	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8947.68762	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8951.762709999999	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8956.108320000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8960.34739	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8964.433790000001	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8968.18096	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8972.34781	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8975.931709999999	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8980.0581	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+8984.21946	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+8988.44965	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8992.84084	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+8997.32357	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9001.59302	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9005.67488	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9010.10363	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9014.18416	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9017.70156	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9021.32285	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9025.686	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9029.67072	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9034.01601	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9037.72583	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9041.77856	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9045.90887	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9049.44129	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9053.55644	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9057.41928	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9060.96925	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9064.95925	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9068.6522	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9072.2757	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9075.98163	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9079.62857	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9083.31807	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9086.86116	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9090.99678	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9094.77907	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9098.8181	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9103.01368	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9107.01323	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9111.04946	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9114.99506	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9118.61943	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9122.61021	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9126.96364	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9131.33799	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9135.10871	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9138.8176	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9142.883	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9147.02375	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9150.9412	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9154.6476	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9159.09597	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9162.67847	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9166.2846	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9169.92706	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9173.59395	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9177.71533	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9181.78948	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9185.34198	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9189.77361	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9194.0027	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9198.24097	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9201.80479	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9206.16566	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9210.60049	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9215.08532	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9219.44469	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9223.73067	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9227.74448	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9231.4225	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9235.32151	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9238.95587	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9242.4872	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9246.92677	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9250.72849	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9254.52446	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9258.35782	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9262.32531	0.0003999999989900971	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9266.47393	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9269.99958	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9274.3422	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9278.40167	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9282.7562	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9286.6045	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9290.55095	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9294.10561	0.0003999999989900971	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9297.78314	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9301.94637	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9305.77761	0.0004000000008090865	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9310.17652	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9313.7951	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9318.28395	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9322.32436	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9326.53171	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9331.03163	0.00041000000055646524	trials	electrical	biphasic	80	SSp	superficial	isoflurane	False	True
+9334.8199	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9338.73485	0.0003999999989900971	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9342.70011	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True
+9346.9645	0.0004000000008090865	trials	electrical	biphasic	60	SSp	superficial	isoflurane	False	True
+9351.28313	0.0004000000008090865	trials	electrical	biphasic	100	SSp	superficial	isoflurane	False	True

@@ -1,0 +1,25 @@
+{
+    "Name": "Simultaneous electroencephalography, extracellular electrophysiology, and cortical electrical stimulation in head-fixed mice",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "In this set of experiments, we recorded neural signals using an electroencephalography (EEG) array and Neuropixels probes while directly electrically stimulating the cortex in awake and anesthetized head-fixed mice. Details of the experiments can be found in the associated manuscript (Claar, Rembado et al., 2023). Briefly, the recordings and stimulation commenced while the mouse was awake, free to rest or move on a rotating disc. After delivering a series of stimuli, anesthesia was induced with isoflurane (5% via inhalation). Once a surgical level of anesthesia was reached, the mouse was maintained unconscious (1-1.5% isoflurane) during the delivery of another series of stimuli. In some subjects another series of stimuli was delivered after the isoflurane was turned off, this epoch/state is referred to as \u201crecovery\u201d in the dataset.\n\nEach session file includes the following data: raw EEG signals from all 30 surface electrodes and the associated electrode information; raw LFP signals from all electrodes on all Neuropixels probes (if used) and the associated electrode information; spike times for all units (spike sorted with Kilosort 2.0) that passed our quality threshold with associated information (brain region, spike waveform duration, etc.); subject\u2019s speed computed from the rotation of the disc for the entire session; epochs marking when isoflurane was induced and when it was maintained; and a trial table containing information about every stimulus delivered throughout the session.\n\nAll sessions included an awake and an isoflurane epoch, but not all sessions included a recovery epoch. Some subjects received visual stimulation trials (visual stimuli presented on a screen in the subject\u2019s right field of view) interleaved with the electrical stimulation trials.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Claar, Leslie D",
+        "Rembado, Irene",
+        "Kuyat, Jacqulyn R",
+        "Russo, Simone",
+        "Marks, Lydia C",
+        "Olsen, Shawn R",
+        "Koch, Christof"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
