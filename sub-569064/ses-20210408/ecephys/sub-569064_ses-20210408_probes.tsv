@@ -1,5 +1,5 @@
 probe_name	type	manufacturer	description
-EEG array	n/a	Neuronexus	H32 Mouse EEG (30-ch)
 probeB	n/a	imec	Neuropixels 1.0 probe
+EEG array	n/a	Neuronexus	H32 Mouse EEG (30-ch)
 probeC	n/a	imec	Neuropixels 1.0 probe
 probeF	n/a	imec	Neuropixels 1.0 probe
